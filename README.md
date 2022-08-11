@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gabecker977, I am a student and I currently try to learn about game developing.
-- 🌱 I’m currently learning 3D moldel and web developing(HTML,CSS,JavaScript) but I alread know somethings about programing(Python, Java, C# to Unity).
-- 💞️ I’m looking to become a software developer.
+- 🌱 I’m currently learning 3D moldel and web developing(HTML,CSS,JavaScript) but I already know somethings about programing(Python, Java, C# to Unity).
+- 💞️ I’m looking to become a game developer.
 - 📫 How to reach me gabriel.augusto.becker@gmail.com
 
 <!---
